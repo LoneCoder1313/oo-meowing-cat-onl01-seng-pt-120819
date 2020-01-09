@@ -3,5 +3,6 @@ class Cat
   maru = Cat.new 
   def meow 
     @meow 
+    puts "meow!"
   end 
 end 
